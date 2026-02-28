@@ -1,3 +1,3 @@
 # colaboration
 
-data: 1.03.2026 
+1.03.2026
